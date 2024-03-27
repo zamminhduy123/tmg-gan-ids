@@ -1,0 +1,11 @@
+.idea/
+venv/
+
+data/
+tests/general_test.py
+
+
+__pycache__/
+tests/runs/
+
+*.pkl
